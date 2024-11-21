@@ -1,8 +1,4 @@
-class sample
-{
-int x,y
-public void display()
+public static void main(String args[])
 {
 System.out.println("hhh");
-}
 }
